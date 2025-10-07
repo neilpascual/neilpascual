@@ -19,8 +19,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="60" alt="androidstudio logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/express/000000" height="60" alt="express logo"  />
