@@ -27,7 +27,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
 </div>
 
 ###
