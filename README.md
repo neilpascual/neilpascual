@@ -1,5 +1,5 @@
 <h1 align="center">ᜊᜏᜆ᜔ ᜑᜃ᜔ᜊᜅ᜔, ᜉ᜔ᜇᜓᜄ᜔ᜇᜒᜐᜓ</h1>
-<q>Bawat Hakbang, Progreso</q>
+<q align="center">Bawat Hakbang, Progreso</q>
 
 ###
 
