@@ -50,7 +50,7 @@
 </div>
 
 ###
-<div>
+<div align="center">
   <p>
     Hi, I am Neil Aron P. Pascual
   </p>
