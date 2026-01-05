@@ -38,12 +38,12 @@
   <a href="https://facebook.com/neilaron.pascual" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" alt="facebook logo"/>
   </a>
-  <a href="https://instagram.com/neilpascual20" target="_blank">
+  <!-- <a href="https://instagram.com/neilpascual20" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo"/>
-  </a>
-  <a href="https://slack.com/yourworkspace" target="_blank">
+  </a> -->
+  <!-- <a href="https://slack.com/yourworkspace" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&style=for-the-badge" height="25" alt="slack logo"/>
-  </a>
+  </a> -->
   <a href="mailto:neilaronpascual.dev@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo"/>
   </a>
