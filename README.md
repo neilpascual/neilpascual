@@ -52,7 +52,7 @@
 ###
 <div align="center">
   <p>
-    Hi, I am <a href="neil-pascual.vercel.app">Neil Aron P. Pascual<a>
+    Hi, I am <a href="neil-pascual.vercel.app" style="decoration: none;">Neil Aron P. Pascual<a>
   </p>
 </div>
 
